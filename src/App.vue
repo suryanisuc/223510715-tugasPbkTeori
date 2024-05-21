@@ -19,7 +19,7 @@
      <table class="table mt-1">
        <thead>
          <tr>
-           <th>Task</th>
+           <th>Tugas</th>
            <th>Status</th>
            <th>Action</th>
          </tr>
