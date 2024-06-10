@@ -97,6 +97,9 @@ export default {
   backdrop-filter: blur(5px);
   color: white;
 }
+.test input::placeholder{
+  color: white;
+}
 .test button {
   margin-left: 10px;
   margin-bottom: 15px;
